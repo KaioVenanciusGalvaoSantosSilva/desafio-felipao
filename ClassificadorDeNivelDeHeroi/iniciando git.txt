@@ -1,0 +1,29 @@
+git criado
+iniciando projeto
+
+#Desafio Classificador de Nível de Herói
+
+*** O que deve ser utilizado
+
+Variáveis
+Operadores
+Laço de repetição
+Estrutura de decisões
+
+#Objetio
+Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
+
+Se o XP for menor do que 1000 = Ferro
+Se o XP for entre 1001 e 2000 = Bronze
+Se o XP for entre 2001 e 5000 = Prata
+Se o XP for entre 6001 e 7000 = Ouro
+Se o XP for entre 7001 e 8000 = Platina
+Se o XP for entre 8001 e 9000 = Ascendente
+Se o XP for entre 9001 e 10000 = Imortal
+Se o XP for maior ou igual a 10001 = Radiante
+
+#Saída
+
+Ao final deve  exibir uma mensagem:
+
+"O Herói de nome **{nome}** está no nível de **{nível}**
